@@ -500,9 +500,6 @@ img {
 /* Форма у футері */
 .subscribe-form {
     width: 570px;
-}
-
-.subscribe-data {
     display: flex;
     gap: 12px;
 }
